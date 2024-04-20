@@ -1,0 +1,12 @@
+/Users/nazarzakrevskij/RiderProjects/Kdz-3-2-Zakrevskii/HeroVsBoss/bin/Debug/net6.0/HeroVsBoss.deps.json
+/Users/nazarzakrevskij/RiderProjects/Kdz-3-2-Zakrevskii/HeroVsBoss/bin/Debug/net6.0/HeroVsBoss.dll
+/Users/nazarzakrevskij/RiderProjects/Kdz-3-2-Zakrevskii/HeroVsBoss/bin/Debug/net6.0/HeroVsBoss.pdb
+/Users/nazarzakrevskij/RiderProjects/Kdz-3-2-Zakrevskii/HeroVsBoss/obj/Debug/net6.0/HeroVsBoss.csproj.AssemblyReference.cache
+/Users/nazarzakrevskij/RiderProjects/Kdz-3-2-Zakrevskii/HeroVsBoss/obj/Debug/net6.0/HeroVsBoss.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nazarzakrevskij/RiderProjects/Kdz-3-2-Zakrevskii/HeroVsBoss/obj/Debug/net6.0/HeroVsBoss.AssemblyInfoInputs.cache
+/Users/nazarzakrevskij/RiderProjects/Kdz-3-2-Zakrevskii/HeroVsBoss/obj/Debug/net6.0/HeroVsBoss.AssemblyInfo.cs
+/Users/nazarzakrevskij/RiderProjects/Kdz-3-2-Zakrevskii/HeroVsBoss/obj/Debug/net6.0/HeroVsBoss.csproj.CoreCompileInputs.cache
+/Users/nazarzakrevskij/RiderProjects/Kdz-3-2-Zakrevskii/HeroVsBoss/obj/Debug/net6.0/HeroVsBoss.dll
+/Users/nazarzakrevskij/RiderProjects/Kdz-3-2-Zakrevskii/HeroVsBoss/obj/Debug/net6.0/refint/HeroVsBoss.dll
+/Users/nazarzakrevskij/RiderProjects/Kdz-3-2-Zakrevskii/HeroVsBoss/obj/Debug/net6.0/HeroVsBoss.pdb
+/Users/nazarzakrevskij/RiderProjects/Kdz-3-2-Zakrevskii/HeroVsBoss/obj/Debug/net6.0/ref/HeroVsBoss.dll

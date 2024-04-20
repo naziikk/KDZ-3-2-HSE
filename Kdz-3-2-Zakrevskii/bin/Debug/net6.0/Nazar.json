@@ -1,0 +1,646 @@
+[
+{
+  "hero_id": "4f9ee3b7-6cca-4549-a82b-5d29167c3fba",
+  "hero_name": "suffer",
+  "faction": "Castle",
+  "level": 122.35,
+  "bosses_slayed": [
+    {
+      "boss_id": "d8253c40-1ee0-4943-853b-19387bc87f00",
+      "boss_name": "provide",
+      "experience": 2894,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "c0a6b8d6-7e42-44f9-884c-85f95e950ab9",
+      "boss_name": "street",
+      "experience": 2563,
+      "current_location": "Shadowkeep Stronghold"
+    },
+    {
+      "boss_id": "83a6ab21-66b7-4df4-97c3-f1a77765cf50",
+      "boss_name": "option",
+      "experience": 1122,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "7fe171e7-bcf1-4287-8a44-83c1dd07538a",
+      "boss_name": "training",
+      "experience": 2261,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "3c64bb06-56a9-47d1-9b47-b0e53cc267eb",
+      "boss_name": "politics",
+      "experience": 1753,
+      "current_location": "Sylvan Grove Outpost"
+    }
+  ]
+},
+{
+  "hero_id": "6d40363a-44f7-4fd2-bb68-25dd6de41c40",
+  "hero_name": "plant",
+  "faction": "Fortress",
+  "level": 250.5,
+  "bosses_slayed": [
+    {
+      "boss_id": "65e80873-5f0d-4219-9cc9-7f8c2490a6b7",
+      "boss_name": "town",
+      "experience": 5704,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "7fe171e7-bcf1-4287-8a44-83c1dd07538a",
+      "boss_name": "training",
+      "experience": 2261,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "83a6ab21-66b7-4df4-97c3-f1a77765cf50",
+      "boss_name": "option",
+      "experience": 1122,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "b7d83d16-1949-4f12-9f34-2522e86976a3",
+      "boss_name": "bebra",
+      "experience": 3297,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "c996465a-5194-4534-9348-7cb27a03167f",
+      "boss_name": "would",
+      "experience": 1439,
+      "current_location": "Shadowkeep Stronghold"
+    },
+    {
+      "boss_id": "6acdf683-d520-40b8-9785-bcf06a99e2f4",
+      "boss_name": "itself",
+      "experience": 1501,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "a31e93a2-6861-475e-a42e-20198b730f4b",
+      "boss_name": "security",
+      "experience": 3872,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "2d96ef4a-41e4-4d4b-9297-562035bc1df1",
+      "boss_name": "industry",
+      "experience": 5417,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "c0a6b8d6-7e42-44f9-884c-85f95e950ab9",
+      "boss_name": "street",
+      "experience": 2563,
+      "current_location": "Shadowkeep Stronghold"
+    },
+    {
+      "boss_id": "3c64bb06-56a9-47d1-9b47-b0e53cc267eb",
+      "boss_name": "politics",
+      "experience": 1753,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "cf407a6d-a2ea-4e83-bb69-c080e399230a",
+      "boss_name": "return",
+      "experience": 5155,
+      "current_location": "Shadowkeep Stronghold"
+    },
+    {
+      "boss_id": "37756218-a508-4b04-be21-bd0b874c5c55",
+      "boss_name": "sign",
+      "experience": 1282,
+      "current_location": "Stormwatch Tower"
+    },
+    {
+      "boss_id": "e4e21a46-c3f2-45b8-a70b-4e9c82fb0e00",
+      "boss_name": "watch",
+      "experience": 2590,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "7e93d9cc-a7e7-4184-b1fa-48e9afb84a34",
+      "boss_name": "soon",
+      "experience": 5252,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "6553fccc-c020-4c00-aa83-aaeb11b9c923",
+      "boss_name": "energy",
+      "experience": 3377,
+      "current_location": "Stormwatch Tower"
+    }
+  ]
+},
+{
+  "hero_id": "a5332f36-d03a-4077-8a60-84b1600177f2",
+  "hero_name": "argue",
+  "faction": "Fortress",
+  "level": 252.4,
+  "bosses_slayed": [
+    {
+      "boss_id": "7fe171e7-bcf1-4287-8a44-83c1dd07538a",
+      "boss_name": "training",
+      "experience": 2261,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "d8253c40-1ee0-4943-853b-19387bc87f00",
+      "boss_name": "provide",
+      "experience": 2894,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "7f165e88-2f26-4d40-8f17-67914d9cde9c",
+      "boss_name": "parent",
+      "experience": 4555,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "2d96ef4a-41e4-4d4b-9297-562035bc1df1",
+      "boss_name": "industry",
+      "experience": 5417,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "6553fccc-c020-4c00-aa83-aaeb11b9c923",
+      "boss_name": "energy",
+      "experience": 5555,
+      "current_location": "Stormwatch Tower"
+    },
+    {
+      "boss_id": "e4e21a46-c3f2-45b8-a70b-4e9c82fb0e00",
+      "boss_name": "watch",
+      "experience": 2590,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "b7d83d16-1949-4f12-9f34-2522e86976a3",
+      "boss_name": "first",
+      "experience": 3297,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "cf407a6d-a2ea-4e83-bb69-c080e399230a",
+      "boss_name": "return",
+      "experience": 5155,
+      "current_location": "Shadowkeep Stronghold"
+    }
+  ]
+},
+{
+  "hero_id": "e694e632-e06f-4c55-b8cb-6c2e7b8ca8f3",
+  "hero_name": "yeah",
+  "faction": "Fortress",
+  "level": 409.13,
+  "bosses_slayed": [
+    {
+      "boss_id": "7e93d9cc-a7e7-4184-b1fa-48e9afb84a34",
+      "boss_name": "soon",
+      "experience": 5252,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "cf407a6d-a2ea-4e83-bb69-c080e399230a",
+      "boss_name": "return",
+      "experience": 5155,
+      "current_location": "Shadowkeep Stronghold"
+    },
+    {
+      "boss_id": "d8253c40-1ee0-4943-853b-19387bc87f00",
+      "boss_name": "provide",
+      "experience": 2894,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "e4e21a46-c3f2-45b8-a70b-4e9c82fb0e00",
+      "boss_name": "watch",
+      "experience": 2590,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "2d96ef4a-41e4-4d4b-9297-562035bc1df1",
+      "boss_name": "industry",
+      "experience": 55555,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "6acdf683-d520-40b8-9785-bcf06a99e2f4",
+      "boss_name": "itself",
+      "experience": 1501,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "b7d83d16-1949-4f12-9f34-2522e86976a3",
+      "boss_name": "first",
+      "experience": 3297,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "3c64bb06-56a9-47d1-9b47-b0e53cc267eb",
+      "boss_name": "politics",
+      "experience": 1753,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "37756218-a508-4b04-be21-bd0b874c5c55",
+      "boss_name": "sign",
+      "experience": 1282,
+      "current_location": "Stormwatch Tower"
+    },
+    {
+      "boss_id": "65e80873-5f0d-4219-9cc9-7f8c2490a6b7",
+      "boss_name": "town",
+      "experience": 5704,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "7fe171e7-bcf1-4287-8a44-83c1dd07538a",
+      "boss_name": "training",
+      "experience": 2261,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "7f165e88-2f26-4d40-8f17-67914d9cde9c",
+      "boss_name": "parent",
+      "experience": 4555,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "c996465a-5194-4534-9348-7cb27a03167f",
+      "boss_name": "would",
+      "experience": 1439,
+      "current_location": "Shadowkeep Stronghold"
+    }
+  ]
+},
+{
+  "hero_id": "d003be6e-3972-488f-a79b-c300f3ce3e50",
+  "hero_name": "black",
+  "faction": "Tower",
+  "level": 160.64,
+  "bosses_slayed": [
+    {
+      "boss_id": "c0a6b8d6-7e42-44f9-884c-85f95e950ab9",
+      "boss_name": "street",
+      "experience": 2563,
+      "current_location": "Shadowkeep Stronghold"
+    },
+    {
+      "boss_id": "e4e21a46-c3f2-45b8-a70b-4e9c82fb0e00",
+      "boss_name": "watch",
+      "experience": 2590,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "a31e93a2-6861-475e-a42e-20198b730f4b",
+      "boss_name": "security",
+      "experience": 3872,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "83a6ab21-66b7-4df4-97c3-f1a77765cf50",
+      "boss_name": "option",
+      "experience": 1122,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "c996465a-5194-4534-9348-7cb27a03167f",
+      "boss_name": "would",
+      "experience": 555,
+      "current_location": "Shadowkeep Stronghold"
+    },
+    {
+      "boss_id": "6acdf683-d520-40b8-9785-bcf06a99e2f4",
+      "boss_name": "itself",
+      "experience": 1501,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "cf407a6d-a2ea-4e83-bb69-c080e399230a",
+      "boss_name": "return",
+      "experience": 5155,
+      "current_location": "Shadowkeep Stronghold"
+    },
+    {
+      "boss_id": "7fe171e7-bcf1-4287-8a44-83c1dd07538a",
+      "boss_name": "training",
+      "experience": 2261,
+      "current_location": "Sylvan Grove Outpost"
+    }
+  ]
+},
+{
+  "hero_id": "c60bf0f2-73c2-4ec4-b6f1-085479957e2e",
+  "hero_name": "behavior",
+  "faction": "Fortress",
+  "level": 189.85,
+  "bosses_slayed": [
+    {
+      "boss_id": "b7d83d16-1949-4f12-9f34-2522e86976a3",
+      "boss_name": "first",
+      "experience": 3297,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "6553fccc-c020-4c00-aa83-aaeb11b9c923",
+      "boss_name": "energy",
+      "experience": 3377,
+      "current_location": "Stormwatch Tower"
+    },
+    {
+      "boss_id": "d8253c40-1ee0-4943-853b-19387bc87f00",
+      "boss_name": "provide",
+      "experience": 2894,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "2d96ef4a-41e4-4d4b-9297-562035bc1df1",
+      "boss_name": "industry",
+      "experience": 5417,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "83a6ab21-66b7-4df4-97c3-f1a77765cf50",
+      "boss_name": "option",
+      "experience": 1122,
+      "current_location": "Citadel of the Eternal Flame"
+    }
+  ]
+},
+{
+  "hero_id": "6dc3d66d-c484-42a3-be2b-fbf9eae0a7e8",
+  "hero_name": "local",
+  "faction": "Rampart",
+  "level": 251.4,
+  "bosses_slayed": [
+    {
+      "boss_id": "2d96ef4a-41e4-4d4b-9297-562035bc1df1",
+      "boss_name": "industry",
+      "experience": 5417,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "83a6ab21-66b7-4df4-97c3-f1a77765cf50",
+      "boss_name": "option",
+      "experience": 1122,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "d8253c40-1ee0-4943-853b-19387bc87f00",
+      "boss_name": "provide",
+      "experience": 2894,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "7e93d9cc-a7e7-4184-b1fa-48e9afb84a34",
+      "boss_name": "soon",
+      "experience": 5252,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "c996465a-5194-4534-9348-7cb27a03167f",
+      "boss_name": "would",
+      "experience": 1439,
+      "current_location": "Shadowkeep Stronghold"
+    },
+    {
+      "boss_id": "6acdf683-d520-40b8-9785-bcf06a99e2f4",
+      "boss_name": "itself",
+      "experience": 1501,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "7fe171e7-bcf1-4287-8a44-83c1dd07538a",
+      "boss_name": "training",
+      "experience": 2261,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "3c64bb06-56a9-47d1-9b47-b0e53cc267eb",
+      "boss_name": "politics",
+      "experience": 1753,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "cf407a6d-a2ea-4e83-bb69-c080e399230a",
+      "boss_name": "return",
+      "experience": 5155,
+      "current_location": "Shadowkeep Stronghold"
+    },
+    {
+      "boss_id": "c0a6b8d6-7e42-44f9-884c-85f95e950ab9",
+      "boss_name": "street",
+      "experience": 2563,
+      "current_location": "Shadowkeep Stronghold"
+    },
+    {
+      "boss_id": "65e80873-5f0d-4219-9cc9-7f8c2490a6b7",
+      "boss_name": "town",
+      "experience": 5704,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "e4e21a46-c3f2-45b8-a70b-4e9c82fb0e00",
+      "boss_name": "watch",
+      "experience": 2590,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "6553fccc-c020-4c00-aa83-aaeb11b9c923",
+      "boss_name": "energy",
+      "experience": 3377,
+      "current_location": "Stormwatch Tower"
+    },
+    {
+      "boss_id": "37756218-a508-4b04-be21-bd0b874c5c55",
+      "boss_name": "sign",
+      "experience": 1282,
+      "current_location": "Stormwatch Tower"
+    },
+    {
+      "boss_id": "7f165e88-2f26-4d40-8f17-67914d9cde9c",
+      "boss_name": "parent",
+      "experience": 4555,
+      "current_location": "Sylvan Grove Outpost"
+    }
+  ]
+},
+{
+  "hero_id": "e6b54c7b-087d-48c5-8484-864b8d56d720",
+  "hero_name": "identify",
+  "faction": "Inferno",
+  "level": 203.5,
+  "bosses_slayed": [
+    {
+      "boss_id": "7f165e88-2f26-4d40-8f17-67914d9cde9c",
+      "boss_name": "parent",
+      "experience": 4555,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "a31e93a2-6861-475e-a42e-20198b730f4b",
+      "boss_name": "security",
+      "experience": 3872,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "37756218-a508-4b04-be21-bd0b874c5c55",
+      "boss_name": "sign",
+      "experience": 1282,
+      "current_location": "Stormwatch Tower"
+    },
+    {
+      "boss_id": "3c64bb06-56a9-47d1-9b47-b0e53cc267eb",
+      "boss_name": "politics",
+      "experience": 1753,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "2d96ef4a-41e4-4d4b-9297-562035bc1df1",
+      "boss_name": "industry",
+      "experience": 5417,
+      "current_location": "Sylvan Grove Outpost"
+    }
+  ]
+},
+{
+  "hero_id": "454d0e02-792a-4efb-b7e2-d000b6bb4bd6",
+  "hero_name": "win",
+  "faction": "Inferno",
+  "level": 206.85,
+  "bosses_slayed": [
+    {
+      "boss_id": "7fe171e7-bcf1-4287-8a44-83c1dd07538a",
+      "boss_name": "training",
+      "experience": 2261,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "e4e21a46-c3f2-45b8-a70b-4e9c82fb0e00",
+      "boss_name": "watch",
+      "experience": 2590,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "b7d83d16-1949-4f12-9f34-2522e86976a3",
+      "boss_name": "first",
+      "experience": 3297,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "83a6ab21-66b7-4df4-97c3-f1a77765cf50",
+      "boss_name": "option",
+      "experience": 1122,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "cf407a6d-a2ea-4e83-bb69-c080e399230a",
+      "boss_name": "return",
+      "experience": 5155,
+      "current_location": "Shadowkeep Stronghold"
+    },
+    {
+      "boss_id": "6553fccc-c020-4c00-aa83-aaeb11b9c923",
+      "boss_name": "energy",
+      "experience": 3377,
+      "current_location": "Stormwatch Tower"
+    },
+    {
+      "boss_id": "3c64bb06-56a9-47d1-9b47-b0e53cc267eb",
+      "boss_name": "politics",
+      "experience": 1753,
+      "current_location": "Sylvan Grove Outpost"
+    },
+    {
+      "boss_id": "c996465a-5194-4534-9348-7cb27a03167f",
+      "boss_name": "would",
+      "experience": 1439,
+      "current_location": "Shadowkeep Stronghold"
+    },
+    {
+      "boss_id": "c0a6b8d6-7e42-44f9-884c-85f95e950ab9",
+      "boss_name": "street",
+      "experience": 2563,
+      "current_location": "Shadowkeep Stronghold"
+    },
+    {
+      "boss_id": "37756218-a508-4b04-be21-bd0b874c5c55",
+      "boss_name": "sign",
+      "experience": 1282,
+      "current_location": "Stormwatch Tower"
+    },
+    {
+      "boss_id": "6acdf683-d520-40b8-9785-bcf06a99e2f4",
+      "boss_name": "itself",
+      "experience": 1501,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "65e80873-5f0d-4219-9cc9-7f8c2490a6b7",
+      "boss_name": "town",
+      "experience": 5704,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "a31e93a2-6861-475e-a42e-20198b730f4b",
+      "boss_name": "security",
+      "experience": 3872,
+      "current_location": "Sylvan Grove Outpost"
+    }
+  ]
+},
+{
+  "hero_id": "5c2c308b-6a03-4a94-bd86-434563b3a5c5",
+  "hero_name": "good",
+  "faction": "Fortress",
+  "level": 119.4,
+  "bosses_slayed": [
+    {
+      "boss_id": "e4e21a46-c3f2-45b8-a70b-4e9c82fb0e00",
+      "boss_name": "watch",
+      "experience": 2590,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "d8253c40-1ee0-4943-853b-19387bc87f00",
+      "boss_name": "provide",
+      "experience": 2894,
+      "current_location": "Castle Ironclad"
+    },
+    {
+      "boss_id": "6acdf683-d520-40b8-9785-bcf06a99e2f4",
+      "boss_name": "itself",
+      "experience": 1501,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "37756218-a508-4b04-be21-bd0b874c5c55",
+      "boss_name": "sign",
+      "experience": 1282,
+      "current_location": "Stormwatch Tower"
+    },
+    {
+      "boss_id": "83a6ab21-66b7-4df4-97c3-f1a77765cf50",
+      "boss_name": "option",
+      "experience": 1122,
+      "current_location": "Citadel of the Eternal Flame"
+    },
+    {
+      "boss_id": "c0a6b8d6-7e42-44f9-884c-85f95e950ab9",
+      "boss_name": "street",
+      "experience": 2563,
+      "current_location": "Shadowkeep Stronghold"
+    },
+    {
+      "boss_id": "3c64bb06-56a9-47d1-9b47-b0e53cc267eb",
+      "boss_name": "politics",
+      "experience": 1753,
+      "current_location": "Sylvan Grove Outpost"
+    }
+  ]
+}
+]

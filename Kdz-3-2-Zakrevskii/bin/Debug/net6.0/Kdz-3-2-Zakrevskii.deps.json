@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Kdz-3-2-Zakrevskii/1.0.0": {
+        "dependencies": {
+          "HeroVsBoss": "1.0.0"
+        },
+        "runtime": {
+          "Kdz-3-2-Zakrevskii.dll": {}
+        }
+      },
+      "HeroVsBoss/1.0.0": {
+        "runtime": {
+          "HeroVsBoss.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kdz-3-2-Zakrevskii/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HeroVsBoss/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kdz-3-2-Zakrevskii", "Kdz-3-2-Zakrevskii\Kdz-3-2-Zakrevskii.csproj", "{5C98C444-AA2A-4897-8682-2A5C68CE084C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroVsBoss", "HeroVsBoss\HeroVsBoss.csproj", "{C0C50BDB-CFDB-4343-B1E9-12205BFC7DA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C98C444-AA2A-4897-8682-2A5C68CE084C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C98C444-AA2A-4897-8682-2A5C68CE084C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C98C444-AA2A-4897-8682-2A5C68CE084C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C98C444-AA2A-4897-8682-2A5C68CE084C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C50BDB-CFDB-4343-B1E9-12205BFC7DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C50BDB-CFDB-4343-B1E9-12205BFC7DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C50BDB-CFDB-4343-B1E9-12205BFC7DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C50BDB-CFDB-4343-B1E9-12205BFC7DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
